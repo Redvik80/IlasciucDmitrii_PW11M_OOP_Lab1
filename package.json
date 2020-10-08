@@ -4,7 +4,7 @@
     "description": "",
     "main": "lab1.js",
     "scripts": {
-        "build": "tsc -t es5 lab1.ts"
+        "build": "tsc -t es6 lab1.ts"
     },
     "author": "",
     "license": "ISC"
